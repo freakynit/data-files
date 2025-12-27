@@ -1,0 +1,33 @@
+[{
+        "commentIndex": 0,
+        "commentId": "46392104",
+        "user": "digitalsushi",
+        "comment": "This is a new years resolution question barely in disguise, but they're fun cause a lot of us are cooped up, barely 4 days into winter, 86ish to go, and we're champing at the bit for change.<p>I am pretty sure I'm a 50th percentiler. I'm mid 40s, kinda burned out but still struggling forward in my ok-but-not-hollywood IT career, I still have a passion for doing things well in a technical society that values doing things cheap (and well). The things I am known for being good at, I still google daily, and for a long time, I've been hungry for a change - any change - but especially one that isn't chaotically negative.</p><p>So in 2026, I wanna learn how dirt works.</p><p>I actually have a giant box of dirt sitting on a shelf at the UNH community co-op soil analysis lab, waiting to give me some kind of data about the soil behind my house. (Or is it dirt? I don't know what I'm getting into).</p><p>In 2024 I tried growing some corn. It never sprouted.</p><p>In 2025 I tried growing some corn. It sprouted and a few ears had enough kernels to make one full mouthful. Tasty, but maybe 7 calories of food for a year of effort.</p><p>So in 2026 I'd like to grow: one entire fully formed ear of sweet corn. Anything else is a bonus.</p><p>That's what I wanna develop in 2026 - learning how soil works enough to make it make a thing.  Small moves, Ellie.</p>",
+        "insights": {
+            "thread_core_theme": "Developing practical soil and gardening skills to successfully grow corn in 2026",
+            "primary_intent": "The original poster seeks to learn how soil works and improve their ability to cultivate a full ear of sweet corn as a personal development goal.",
+            "dominant_sentiment_arc": "Optimistic curiosity tempered by past frustration, shifting toward hopeful encouragement after peer advice.",
+            "key_points_of_disagreement": [],
+            "practical_takeaways": ["Start with foundational soil knowledge (e.g., read \"Start with the Soil\").", "Maintain consistent moisture and appropriate temperature for corn germination.", "Plant corn in blocks rather than isolated rows to ensure adequate pollination.", "Adjust planting depth based on seed requirements and soil type."],
+            "recurring_failure_modes": ["Insufficient or excessive moisture leading to seed rot or failed germination.", "Improper planting depth causing poor emergence.", "Lack of pollination due to isolated planting configurations.", "Limited understanding of soil composition and nutrient needs."],
+            "implicit_open_questions": ["What specific resources or experiments can accelerate learning about soil chemistry?", "How can one reliably monitor and control moisture and temperature for outdoor planting?", "What are the best low‑maintenance methods to ensure effective corn pollination in a small garden?"]
+        },
+        "participatingUsers": ["eudamoniac", "mythrwy"]
+    },
+    {
+        "commentIndex": 1,
+        "commentId": "46389128",
+        "user": "pan69",
+        "comment": "I want to quit my cosy, well paying, job and start building the products I have been wanting to build for quite some years now. I have been starting to use AI about 12 months ago and, as an experienced engineer of 30+ years professionally, I am blown away by how productive it makes me. What I used to be able to do in a week now takes me a day, what I used to be able to do in a month now takes me week, etc.<p>So, 2026 is going to be the year I'm going to run this experiment on myself and see what I can accomplish with this way of working.</p>",
+        "insights": {
+            "thread_core_theme": "Leveraging large language model assistants to accelerate personal product development and skill growth in 2026",
+            "primary_intent": "Seek practical guidance and shared experiences on how to use AI effectively for building products, improving productivity, and managing costs",
+            "dominant_sentiment_arc": "initial optimism → emerging skepticism/disillusionment → cautious optimism with nuanced advice",
+            "key_points_of_disagreement": ["Magnitude of productivity gains claimed by AI users versus experienced engineers who see marginal benefits", "Whether higher‑cost AI plans ($100‑$1500/month) are justified compared to low‑tier plans", "Reliability of AI‑generated code versus hand‑written code, especially for complex or performance‑critical tasks", "Degree of trust appropriate for delegating work to an LLM versus retaining hands‑on involvement"],
+            "practical_takeaways": ["Start with small, well‑defined tasks and copy‑paste relevant context into the model", "Prefer working on existing codebases and augment with specs, tests, and incremental plans", "Treat the LLM as a junior assistant: supervise, verify, and iterate rather than fully delegate", "Use low‑cost plans initially; upgrade only when hitting concrete limits", "Capture successful prompts and patterns as reusable \"skills\" for future reuse", "Incorporate standard software engineering stages (design, review, testing) to catch model hallucinations"],
+            "recurring_failure_modes": ["Copy‑pasting without integration leads to broken or inefficient code", "Vague specifications cause the model to produce incorrect logic or misunderstand requirements", "Overlooking performance pitfalls (e.g., n+1 queries, missing joins) due to blind trust in AI output", "Assuming the model understands domain nuances, resulting in repeated debugging cycles", "Failing to maintain a test suite, making it hard to validate AI‑generated code"],
+            "implicit_open_questions": ["What concrete workflow (prompt structure, iteration cadence) consistently yields measurable productivity gains?", "How much monthly spend on AI services is optimal for solo developers versus teams?", "How can developers systematically convert ad‑hoc AI interactions into durable, shareable skills?", "At what complexity threshold does AI assistance become counter‑productive?", "What balance of delegation and personal code review maximizes learning while minimizing risk?"]
+        },
+        "participatingUsers": ["imron", "kukkeliskuu", "LouisSayers", "hawk_", "fragmede", "dvfjsdhgfv", "afpx", "jstummbillig", "brailsafe", "Flere-Imsaho", "dynamite-ready", "9cb14c1ec0", "tclancy", "amitav1", "rkuodys", "welshwelsh", "lurking_swe", "locknitpicker", "kaizenb", "mattm", "daliusd", "gremlinsinc"]
+    }
+]
